@@ -5,4 +5,4 @@ Data used : Ashville Airbnb
 Data: http://insideairbnb.com/get-the-data.html
 
 Clustering Airbnb Hosts based on their description
-
+![](TopicModelling.png)
